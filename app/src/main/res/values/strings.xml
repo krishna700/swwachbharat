@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Swwach Bharat</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="name">Name</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="prompt_otp">Enter OTP</string>
+    <string name="verify">Verify</string>
+    <string name="login">Towards Green Environment.</string>
+    <string name="complaints">Complaints</string>
+    <string name="events">Events</string>
+    <string name="New">New</string>
+    <string name="user">Me</string>
+    <string name="complain">Complaint</string>
+
+    <string name="post">Post a complaint</string>
+    <string name="motiveOne">Leap towards greener environment</string>
+
+    <string name="create">Create an event</string>
+    <string name="motiveTwo">Be the hero! Take an initiative</string>
+
+    <string name="google_maps_key">AIzaSyD1e0qp2t7jhSDLN8RnlH_2_4Bx1qsyvD8</string>
+
+</resources>
