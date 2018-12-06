@@ -18,11 +18,11 @@
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/bottom_navigation"
         app:menu="@menu/menu"
+        app:labelVisibilityMode="labeled"
         app:elevation="18dp"
-        app:itemIconTint="@color/colorPrimaryDark"
-        app:itemTextColor="@color/colorPrimaryDark"
-        app:itemBackground="@color/colorPrimary"
-
+        app:itemIconTint="@color/bottom_nav_color"
+        app:itemTextColor="@color/bottom_nav_color"
+        app:itemBackground="@color/bottom"
         android:layout_alignParentBottom="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

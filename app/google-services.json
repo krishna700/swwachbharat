@@ -1,35 +1,43 @@
 {
   "project_info": {
-    "project_number": "759259741289",
-    "firebase_url": "https://garbagecollector-92928.firebaseio.com",
-    "project_id": "garbagecollector-92928",
-    "storage_bucket": "garbagecollector-92928.appspot.com"
+    "project_number": "1023246831607",
+    "firebase_url": "https://swachbharat-fc293.firebaseio.com",
+    "project_id": "swachbharat-fc293",
+    "storage_bucket": "swachbharat-fc293.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:759259741289:android:7b534849ca06b0de",
+        "mobilesdk_app_id": "1:1023246831607:android:1c11a3ad689890bc",
         "android_client_info": {
-          "package_name": "developer.com.krishna.garbagecollector"
+          "package_name": "developer.com.krishna.swachbharat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "759259741289-26a287cfs0lu7v0967i40lok9i7lgrql.apps.googleusercontent.com",
+          "client_id": "1023246831607-a30fdi9f3eld9rc8sctle19i64inbs31.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "developer.com.krishna.garbagecollector",
+            "package_name": "developer.com.krishna.swachbharat",
             "certificate_hash": "e077da9d020899d9f3bc7c023de783fe8dba31f2"
           }
         },
         {
-          "client_id": "759259741289-9d0snnccg3id99270tucii8fpgkh3is2.apps.googleusercontent.com",
+          "client_id": "1023246831607-2djakv2sukm1r6qknr1dskjl2b8nsob8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developer.com.krishna.swachbharat",
+            "certificate_hash": "4f2c4b437177d67711502477ff02f8154fa5a53d"
+          }
+        },
+        {
+          "client_id": "1023246831607-ffb06pbvf3lbnlvvkmrv4dh87k6mveni.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD1e0qp2t7jhSDLN8RnlH_2_4Bx1qsyvD8"
+          "current_key": "AIzaSyABNDltZyaop59MEUyA77SRdobHZlO7s9I"
         }
       ],
       "services": {
@@ -40,7 +48,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "759259741289-9d0snnccg3id99270tucii8fpgkh3is2.apps.googleusercontent.com",
+              "client_id": "1023246831607-ffb06pbvf3lbnlvvkmrv4dh87k6mveni.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
